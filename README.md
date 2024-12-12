@@ -2,6 +2,8 @@
 
 ![Module 6 Kubernetes Mastery preview image](Assests/preview_image.png)
 
+![Kubernetes architecture](Notes/Kubernetes-Architecture-Diagram.png)
+
 Welcome to **`k8s-orchestrator-mastery`** – your one-stop guide to mastering Kubernetes! 🐳🚀✨
 
 ## 📌 What's Inside?
