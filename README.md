@@ -1,5 +1,7 @@
 # 🌟 Kubernetes Orchestrator Mastery 🌟
 
+![Module 6 Kubernetes Mastery GIF](Assests\preview_image.png)
+
 Welcome to **`k8s-orchestrator-mastery`** – your one-stop guide to mastering Kubernetes! 🐳🚀✨
 
 ## 📌 What's Inside?
@@ -34,12 +36,6 @@ Welcome to **`k8s-orchestrator-mastery`** – your one-stop guide to mastering K
 - 📂 Comprehensive assignments for hands-on learning.
 - 📖 Notes to simplify complex concepts.
 - 🌐 Real-world examples for deployment and orchestration.
-
----
-
-## 📸 Sneak Peek
-
-![Module 6 Kubernetes Mastery GIF](Module%206%20Container%20Orchestration%20Tool%20-%20Kubernetes.gif)
 
 ---
 
