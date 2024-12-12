@@ -1,6 +1,6 @@
 # 🌟 Kubernetes Orchestrator Mastery 🌟
 
-![Module 6 Kubernetes Mastery GIF](Assests\preview_image.png)
+![Module 6 Kubernetes Mastery preview image](Assets/preview_image.png)
 
 Welcome to **`k8s-orchestrator-mastery`** – your one-stop guide to mastering Kubernetes! 🐳🚀✨
 
@@ -43,6 +43,12 @@ Welcome to **`k8s-orchestrator-mastery`** – your one-stop guide to mastering K
 
 - **[Kubernetes Documentation](https://kubernetes.io/docs/)** 📚
 - **[Docker Official Docs](https://docs.docker.com/)** 🐳
+
+---
+
+🔗 **Explore More About Me**  
+- 🌐 Portfolio: [https://abhijit-zende.vercel.app/](https://abhijit-zende.vercel.app/)  
+- ✍️ Hashnode Blog: [https://abhijitzende.hashnode.dev/](https://abhijitzende.hashnode.dev/)  
 
 ---
 
