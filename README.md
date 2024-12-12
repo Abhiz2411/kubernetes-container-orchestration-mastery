@@ -1,6 +1,6 @@
 # 🌟 Kubernetes Orchestrator Mastery 🌟
 
-![Module 6 Kubernetes Mastery preview image](Assets/preview_image.png)
+![Module 6 Kubernetes Mastery preview image](Assests/preview_image.png)
 
 Welcome to **`k8s-orchestrator-mastery`** – your one-stop guide to mastering Kubernetes! 🐳🚀✨
 
